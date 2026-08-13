@@ -1,0 +1,10 @@
+[package]
+name = "clockwork_engine"
+description = "A 3D Game Engine using SDL3"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+repository = "https://github.com/leymora/clockwork"
+
+[dependencies]
+sdl3 = "0.18.4"
